@@ -3,8 +3,8 @@ Cybersecurity Risk Management and Compliance Professional</a>
 
 <h2>👨‍💻 Governance, Risk and Compliance Projects:</h2>
 
-- <b>Conducting an NIST 800-53 Gap Analysis for SaaS Company</b>
-  - []()
+- <b>NIST 800-53 Gap Analysis Lab</b>
+  - [Conducting an NIST 800-53 Gap Analysis for SaaS Company](https://github.com/oshamgrc/NIST-800-53-Gap-Analysis-Lab/blob/main/README.md)
 
 <h2>📺 Popular Medium Articles</h2>
 
